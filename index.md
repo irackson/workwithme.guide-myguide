@@ -1,8 +1,8 @@
 ---
 layout: profile
 # Set both of these to your name
-title: First Last
-full_name: First Last
+title: Ian Rackson
+full_name: Ian Rackson
 # Set this to the Github URL for links to work correctly
 # github_url: https://github.com/abloomston/workwithme.guide-myguide/
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
@@ -14,8 +14,8 @@ full_name: First Last
 _Two important points about your Work With Me document:_
 
 1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
-remove sections. Feel free to start with an empty page and fill it out however you'd like.
-1. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
+   remove sections. Feel free to start with an empty page and fill it out however you'd like.
+2. It's meant to be a change with you—update it as frequently (or infrequently) as you'd like.
 
 _You might want to [estimate the reading time](http://niram.org/read/) of your document and keep it to 5 minutes or less._
 
@@ -47,7 +47,6 @@ out the day?
 
 What should people expect from you when they reach out to you on Yammer, Email, or Slack?
 How should people best get your attention for urgent matters, during and out of your working
-
 
 hours? What's your relationship to work communication when not at work? What are your signs
 that you'd prefer to not be interrupted when at work?
